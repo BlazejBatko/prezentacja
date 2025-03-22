@@ -242,7 +242,7 @@ export default function Presentation() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1.1 }}
-            className="text-2xl text-emerald-300 my-2 bg-black/30 backdrop-blur-sm px-6 py-3 rounded-lg shadow-lg"
+            className="text-2xl text-emerald-300 underline my-2 bg-black/30 backdrop-blur-sm px-6 py-3 rounded-lg shadow-lg"
           >
             <a href={slide.content[3]} target="_blank">
               {slide.content[3]}
@@ -252,7 +252,7 @@ export default function Presentation() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1.1 }}
-            className="text-2xl text-yellow-300 my-2 bg-black/30 backdrop-blur-sm px-6 py-3 rounded-lg shadow-lg"
+            className="text-2xl text-yellow-300 underline my-2 bg-black/30 backdrop-blur-sm px-6 py-3 rounded-lg shadow-lg"
           >
             <a href={slide.content[4]} target="_blank">
               {slide.content[4]}
