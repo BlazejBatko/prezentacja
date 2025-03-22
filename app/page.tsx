@@ -67,8 +67,8 @@ export default function Presentation() {
       title: "The 4 Laws – Making Habits Stick",
       content: [
         "Four principles: Obvious, Attractive, Easy, Satisfying",
-        "Shape your environment to trigger positive habits",
         "Use tools like habit trackers to reinforce change",
+        "Shape your environment to trigger positive habits",
         "Lee Robins reserach about heroin addiction",
         "Typically, 90 percent of heroin users become readdicted once they return home from rehab",
       ],
